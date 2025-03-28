@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+input[type="url"] {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+}
+button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.short-url {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    word-break: break-all;
+}
